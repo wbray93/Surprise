@@ -1,0 +1,10 @@
+.favorite-pictures img{
+    margin:auto;
+    height: 1000px;
+    border: solid 8px black;
+}
+
+.favorite-pictures{
+    background-color: #D3AF61;
+}
+
