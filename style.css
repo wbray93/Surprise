@@ -8,3 +8,39 @@
     background-color: #D3AF61;
 }
 
+.picture-collage {
+    background-color: #D3AF61;
+}
+
+.valentines-card {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #D3AF61;
+}
+
+.valentine {
+    position: block;
+}
+
+span {
+    font-size: 30px;
+    color: pink;
+    float: center;
+}
+
+.button-surprise{
+    position: relative;
+    display: block;
+}
+
+.button-surprise .surprise-container{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
